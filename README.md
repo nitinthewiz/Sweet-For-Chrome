@@ -26,3 +26,6 @@ Feedback
 
 If you have any feedback or request, you can contact me on alpha.app.net:
 [@nitinkhanna](http://alpha.app.net/nitinkhanna).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nitinthewiz/sweet-for-chrome/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
